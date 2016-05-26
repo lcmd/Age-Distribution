@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\age distribution challenge\age distribution challenge\bin\Debug\age distribution challenge.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\age distribution challenge\age distribution challenge\bin\Debug\age distribution challenge.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\age distribution challenge\age distribution challenge\bin\Debug\age distribution challenge.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\age distribution challenge\age distribution challenge\obj\Debug\age distribution challenge.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\age distribution challenge\age distribution challenge\obj\Debug\age distribution challenge.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\age distribution challenge\age distribution challenge\obj\Debug\age distribution challenge.pdb
